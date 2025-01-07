@@ -3,15 +3,17 @@
 
 I’m a Data Scientist with 3 years of experience in transforming data into actionable insights. I specialize in data analysis, machine learning, and building scalable data-driven solutions to solve complex problems. My expertise includes developing predictive models, automating workflows, and uncovering patterns in large datasets to support strategic decision-making.
 
-Skills: Python / R/ SQL / AWS/ Tableau/ SPSS
+#### Skills: Python / R/ SQL / AWS/ Tableau/ SPSS
 
 - 🌱 I’m currently learning AWS services in depth. 
 - 📫 How to reach me: afag.ramazanova@duke.edu or [Linkedin](https://www.linkedin.com/in/afagramazanova/) 
 - 😄 Pronouns: she/her/hers 
 - ⚡ Fun fact: I’m passionate about hiking and climbing—data challenges and mountain summits both give me a sense of accomplishment! 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Afag-Ramazanova)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/afagramazanova//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://public.tableau.com/app/profile/afag/vizzes)  
+#### Social links:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Afag-Ramazanova) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/afagramazanova//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://public.tableau.com/app/profile/afag/vizzes)  
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
