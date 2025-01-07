@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Afag
-![](![Screenshot 2025-01-06 214530](https://github.com/user-attachments/assets/6cba1a81-1b28-45b2-9616-a6790550cc38))
+### Hi there 👋, my name is Afag.
+![Screenshot 2025-01-06 214530](https://github.com/user-attachments/assets/6cba1a81-1b28-45b2-9616-a6790550cc38)
 
 I’m a Data Scientist with 3 years of experience in transforming data into actionable insights. I specialize in data analysis, machine learning, and building scalable data-driven solutions to solve complex problems. My expertise includes developing predictive models, automating workflows, and uncovering patterns in large datasets to support strategic decision-making.
 
@@ -15,7 +15,7 @@ Skills: Python / R/ SQL / AWS/ Tableau/ SPSS
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Afag-Ramazanova)  
+
 
 
 
