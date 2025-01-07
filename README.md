@@ -16,7 +16,17 @@ Skills: Python / R/ SQL / AWS/ Tableau/ SPSS
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Afag-Ramazanova/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Afag-Ramazanova/Afag-Ramazanova/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 <!--
